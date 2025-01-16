@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Tags on minblog</title>
-        <link>https://example.org/ko/tags/</link>
+        <link>http://localhost:1313/ko/tags/</link>
         <description>Recent content in Tags on minblog</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>ko</language>
-        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://example.org/ko/tags/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0900</lastBuildDate><atom:link href="http://localhost:1313/ko/tags/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Rust</title>
-        <link>https://example.org/ko/tags/rust/</link>
+        <link>http://localhost:1313/ko/tags/rust/</link>
         <pubDate>Thu, 16 Jan 2025 00:00:00 +0900</pubDate>
         
-        <guid>https://example.org/ko/tags/rust/</guid>
+        <guid>http://localhost:1313/ko/tags/rust/</guid>
         <description></description>
         </item>
         <item>
         <title>TDD</title>
-        <link>https://example.org/ko/tags/tdd/</link>
+        <link>http://localhost:1313/ko/tags/tdd/</link>
         <pubDate>Thu, 16 Jan 2025 00:00:00 +0900</pubDate>
         
-        <guid>https://example.org/ko/tags/tdd/</guid>
+        <guid>http://localhost:1313/ko/tags/tdd/</guid>
         <description></description>
         </item>
         
