@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Rust Libraries on minblog</title>
+        <link>http://localhost:1313/post/series/tdd_practices/rust_libraries/</link>
+        <description>Recent content in Rust Libraries on minblog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/post/series/tdd_practices/rust_libraries/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Matrix Library Development</title>
+        <link>http://localhost:1313/post/series/tdd_practices/rust_libraries/rustrix/</link>
+        <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/series/tdd_practices/rust_libraries/rustrix/</guid>
+        <description>&lt;h2 id=&#34;요구사항&#34;&gt;요구사항
+&lt;/h2&gt;&lt;h2 id=&#34;시작하기&#34;&gt;시작하기
+&lt;/h2&gt;&lt;h2 id=&#34;매크로-만들기&#34;&gt;매크로 만들기
+&lt;/h2&gt;&lt;h2 id=&#34;연산-구현하기&#34;&gt;연산 구현하기
+&lt;/h2&gt;&lt;h2 id=&#34;문서-만들기&#34;&gt;문서 만들기
+&lt;/h2&gt;&lt;h2 id=&#34;배포하기&#34;&gt;배포하기
+&lt;/h2&gt;</description>
+        </item>
+        
+    </channel>
+</rss>

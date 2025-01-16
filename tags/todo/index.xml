@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Todo on minblog</title>
+        <link>http://localhost:1313/tags/todo/</link>
+        <description>Recent content in Todo on minblog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Sun, 12 Nov 2023 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/tags/todo/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>Tauri, React, Redux로 할 일 목록 만들기</title>
+        <link>http://localhost:1313/post/todo/</link>
+        <pubDate>Sun, 12 Nov 2023 00:00:00 +0000</pubDate>
+        
+        <guid>http://localhost:1313/post/todo/</guid>
+        <description>&lt;p&gt;사실 UI 프레임워크를 처음 사용하게 되면 연습용으로 시도해보기 가장 좋은 것이 할 일 목록 구현이다.
+컴포넌트 분리, 상태 관리 등 UI 개발에서 중요한 개념들을 충분히 연습해볼 수 있기 때문이다.
+그래서 새로운 프레임워크를 접할 때마다 항상 만들어보게 되는 것 같다.
+맨날 너무 똑같은 것만 하지 않나하는 생각이 들어도 결국 이만한 게 없다.&lt;/p&gt;
+&lt;p&gt;이번에는 데스크톱 앱이다.
+Tauri는 Rust로 짜여진 네이티브 어플리케이션 프레임워크로,
+React, Next.js, Vue.js, Svelte, Yew, Leptos 등 다양한 프론트엔드 프레임워크로 UI를 작성할 수 있다.
+나는 요즘 Tauri와 함께 React를 연습하고 있으므로 React를 선택했다.&lt;/p&gt;
+&lt;pre&gt;&lt;code&gt;$ npm create tauri-app@latest
+&lt;/code&gt;&lt;/pre&gt;
+&lt;p&gt;위의 명령어로 프로젝트 생성 시 CLI를 통해 프로젝트 초기 셋업을 간단하게 할 수 있다.&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

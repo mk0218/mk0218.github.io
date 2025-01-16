@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>TDD practices on minblog</title>
+        <link>https://example.org/ko/post/series/tdd_practices/</link>
+        <description>Recent content in TDD practices on minblog</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>ko</language>
+        <lastBuildDate></lastBuildDate><atom:link href="https://example.org/ko/post/series/tdd_practices/index.xml" rel="self" type="application/rss+xml" />
+    </channel>
+</rss>
