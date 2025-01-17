@@ -2,70 +2,70 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://mk0218.github.io/</loc>
+    <loc>/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/categories/</loc>
+    <loc>/categories/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/categories/development/</loc>
+    <loc>/categories/development/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/post/series/tdd_practices/rust_libraries/rustrix/</loc>
+    <loc>/post/series/tdd_practices/rust_libraries/rustrix/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/post/</loc>
+    <loc>/post/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/tags/rust/</loc>
+    <loc>/tags/rust/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/post/series/tdd_practices/rust_libraries/</loc>
+    <loc>/post/series/tdd_practices/rust_libraries/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/post/series/</loc>
+    <loc>/post/series/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/tags/</loc>
+    <loc>/tags/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/tags/tdd/</loc>
+    <loc>/tags/tdd/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/post/series/tdd_practices/</loc>
+    <loc>/post/series/tdd_practices/</loc>
     <lastmod>2025-01-16T00:00:00+09:00</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/page/about/</loc>
+    <loc>/page/about/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/page/</loc>
+    <loc>/page/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url><url>
-    <loc>https://mk0218.github.io/page/search/</loc>
+    <loc>/page/search/</loc>
     <changefreq>daily</changefreq>
     <priority>0.5</priority>
   </url>
