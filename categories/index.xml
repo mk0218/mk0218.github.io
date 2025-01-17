@@ -2,16 +2,16 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Categories on minblog</title>
-        <link>http://localhost:1313/categories/</link>
+        <link>https://mk0218.github.io/categories/</link>
         <description>Recent content in Categories on minblog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language>
-        <lastBuildDate>Tue, 14 Jan 2025 00:00:00 +0000</lastBuildDate><atom:link href="http://localhost:1313/categories/index.xml" rel="self" type="application/rss+xml" /><item>
+        <language>ko</language>
+        <lastBuildDate>Thu, 16 Jan 2025 00:00:00 +0900</lastBuildDate><atom:link href="https://mk0218.github.io/categories/index.xml" rel="self" type="application/rss+xml" /><item>
         <title>Development</title>
-        <link>http://localhost:1313/categories/development/</link>
-        <pubDate>Tue, 14 Jan 2025 00:00:00 +0000</pubDate>
+        <link>https://mk0218.github.io/categories/development/</link>
+        <pubDate>Thu, 16 Jan 2025 00:00:00 +0900</pubDate>
         
-        <guid>http://localhost:1313/categories/development/</guid>
+        <guid>https://mk0218.github.io/categories/development/</guid>
         <description></description>
         </item>
         

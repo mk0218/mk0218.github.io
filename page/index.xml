@@ -2,15 +2,25 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
     <channel>
         <title>Pages on minblog</title>
-        <link>http://localhost:1313/page/</link>
+        <link>https://mk0218.github.io/page/</link>
         <description>Recent content in Pages on minblog</description>
         <generator>Hugo -- gohugo.io</generator>
-        <language>en-us</language><atom:link href="http://localhost:1313/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Search</title>
-        <link>http://localhost:1313/page/search/</link>
+        <language>ko</language><atom:link href="https://mk0218.github.io/page/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>minblog</title>
+        <link>https://mk0218.github.io/page/about/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         
-        <guid>http://localhost:1313/page/search/</guid>
+        <guid>https://mk0218.github.io/page/about/</guid>
+        <description>&lt;p&gt;클린 코드와 사용자 경험에 관심이 많은 신입 소프트웨어 엔지니어입니다.&lt;br&gt;
+음악과 필름 사진을 좋아합니다.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Search</title>
+        <link>https://mk0218.github.io/page/search/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>https://mk0218.github.io/page/search/</guid>
         <description></description>
         </item>
         
